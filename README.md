@@ -1,2 +1,1 @@
-# Tindog
-Projecto de diseño web
+TinDog Starting Files
